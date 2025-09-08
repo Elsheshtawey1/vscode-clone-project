@@ -83,7 +83,4 @@ npm run lint
 This project is licensed under the ISC License. See the `LICENSE` file for more details.
 
 **Authors:**
-
--   [github-Name](httpss://github.com/your-Elsheshtawey1)
 -   "Mohamed-elsheshtawey"
--
