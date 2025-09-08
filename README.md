@@ -33,7 +33,7 @@ To get the project up and running on your local machine, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository-url>
+    git clone <gh repo clone Elsheshtawey1/vscode-clone-project>
     ```
 2.  **Navigate to the project directory:**
     ```bash
