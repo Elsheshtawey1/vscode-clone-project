@@ -2,9 +2,15 @@
 
 This project is a web-based clone of the popular code editor, Visual Studio Code. It is built using modern web technologies and aims to replicate some of the core features and the user interface of VS Code.
 
-## Project Overview
+## Table of Contents
 
-The primary objective of this project is to create a lightweight, browser-based code editor that mimics the look, feel, and functionality of Visual Studio Code. It serves as a demonstration of what can be achieved with modern web development tools and techniques.
+- [Features](#features)
+- [Technology Stack](#technology-stack)
+- [Installation Instructions](#installation-instructions)
+- [Usage Guidelines](#usage-guidelines)
+- [Contribution Guidelines](#contribution-guidelines)
+- [License](#license)
+- [Contact](#contact)
 
 ## Features
 
@@ -27,13 +33,13 @@ The primary objective of this project is to create a lightweight, browser-based 
   - [react-syntax-highlighter](https://github.com/react-syntax-highlighter/react-syntax-highlighter)
 - **Linting**: [ESLint](https://eslint.org/)
 
-## Installation and Setup
+## Installation Instructions
 
 To get the project up and running on your local machine, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone <gh repo clone Elsheshtawey1/vscode-clone-project>
+    git clone https://github.com/Elsheshtawey1/vscode-clone-project.git
     ```
 2.  **Navigate to the project directory:**
     ```bash
@@ -47,7 +53,7 @@ To get the project up and running on your local machine, follow these steps:
     ```bash
     npm run dev
     ```
-    This will start the application in development mode. Open [http://localhost:5173](http://localhost:5173) (or another port if 5173 is in use) to view it in the browser.
+    This will start the application in development mode. Open [http://localhost:5173](http://localhost:5173) to view it in the browser.
 
 ## Usage Guidelines
 
@@ -71,16 +77,13 @@ Please ensure your code adheres to the existing coding style and that you run th
 npm run lint
 ```
 
-## Troubleshooting and FAQ
+## License
 
-- **Problem**: The application is not starting.
-  - **Solution**: Ensure you have Node.js and npm installed. Try deleting the `node_modules` directory and running `npm install` again.
-- **Problem**: Linting errors.
-  - **Solution**: Run `npm run lint` to see the errors and try to fix them automatically.
+This project is licensed under the ISC License.
 
-## License and Authors
+## Contact
 
-This project is licensed under the ISC License. See the `LICENSE` file for more details.
-
-**Authors:**
--   "Mohamed-elsheshtawey"
+- **Project Owner**: Mohamed Elsheshtawey
+- **LinkedIn**: [https://www.linkedin.com/in/mohamed-elsheshtawey/]
+- **GitHub**: [https://github.com/Elsheshtawey1]
+- **Vercel**: [https://vscode-clone-project.vercel.app/]
